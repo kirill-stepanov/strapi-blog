@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_article_h2s",
+  "info": {
+    "displayName": "H2",
+    "icon": "angle-double-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    }
+  }
+}
