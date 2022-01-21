@@ -36,7 +36,8 @@
       "type": "dynamiczone",
       "components": [
         "article.h2",
-        "article.text"
+        "article.text",
+        "article.gallery"
       ]
     }
   }
